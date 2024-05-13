@@ -1,16 +1,9 @@
 -- RUBOT | Rotation V1.2
-blockID = 4584
 
 -- Farm Settings, Separator Must Be "|"
 farmList = {}
 
--- To make it easier, ensure you place the file inside your 'Lucifer' folder.
-useFileTxt = true -- Using a .txt File Containing a Farm List
-farmListFile = "C:\\Users\\Administrator\\Documents\\luci\\farm.txt" -- Or You can use Full Path like this "C:\\Users\\Administrator\\Desktop\\FileName.txt"
-
 autoSpreadWorld = true -- Automatiacally Distribute the World List to All Bots, Bot Won't Have same world
-farmPerBot = 20 -- The number of farms each bot will own
-
 
 saveSeedCount = 50 -- The minimum quantity of seeds required in the inventory before saving seed.
 dontPlant = false -- Bot will not plant the profit seeds instead store them in the storage.
