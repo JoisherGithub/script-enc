@@ -1,3 +1,5 @@
+print("Script By Joisher, Discord : eyzak.")
+
 local function writeFile(filePath, content)
     local file = io.open(filePath, "w")
     if not file then
