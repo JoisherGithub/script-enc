@@ -41,8 +41,7 @@ packItemID = {242}
 minPack = 1 -- Bot will not buy a pack unless it can buy 2 packs.
 
 -- Take Pickaxe Settings
-autoTakePickaxe = false
-pickaxeWorlds = {}
+autoTakePickaxe = true
 pickaxeID = 98
 
 -- PNB Settings
