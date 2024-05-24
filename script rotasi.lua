@@ -60,7 +60,7 @@ delayHarvest = 120
 delayPlant = 120
 delayHit = 180
 delayPlace = 160
-delayReconnect = 5 -- Second
+delayReconnect = 10 -- Second
 
 delayOnExecute = 5000
 delayWarp = 7000
