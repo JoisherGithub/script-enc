@@ -15,7 +15,7 @@ delayHarvest = 100
 delayPlace = 180
 delayHit = 180
 delayWarp = 6000
-delayReconnect = 30 -- Second
+delayReconnect = 10-- Second
 delayOnExecute = 2000
 randomDelayPNB = true -- Variation Delay Between [(delayHit-10) - (delayHit+10)]
 
