@@ -1,4 +1,9 @@
--- RUBOT | Rotation V1.2
+messageids1 = "1244297102411038820"
+messageids2 = "1244299298590556235"
+messageids3 = "1244299462575390723"
+messageids4 = "1244299563288891442"
+messageids5 = "1244299633174380554"
+messageids6 = "1244299642695323830"
 
 -- Farm Settings, Separator Must Be "|"
 farmList = {}
