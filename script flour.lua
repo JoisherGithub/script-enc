@@ -1,4 +1,4 @@
-saveFlourCount = 4
+saveFlourCount = 12
 autoVend = false -- [Auto Stock in Vend], Put ur vend in Storage World
 pnbInTutorial = true -- PNB in Tutorial World
 
