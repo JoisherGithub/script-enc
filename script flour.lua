@@ -42,9 +42,6 @@ randomChatList = {"Tell me more about it.", "Any exciting plans?", "Long time no
 goodItemList = {5030, 12498} -- Example Wind Essence
 trashList = {5038, 5034, 5044, 5032, 5040, 5042}
 
-mainWebhookUrl = ""
-eventWebhookUrl = ""
-
 editMessage = false -- For mainWebhookUrl
 messageID = ""
 
