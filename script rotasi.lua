@@ -34,9 +34,9 @@ moveInterval = 235
 ignoreGems = false -- Ignore Gems Harvest
 showAnimation = true -- Show Hit / Place Animation
 
-autoCleanFire = false -- Auto Clean fire in Farm World
-firehoseStorage = "" -- World For Taking Firehose
-firehoseDoorID = ""
+autoCleanFire = true -- Auto Clean fire in Farm World
+firehoseStorage = "SIGNALJOISHER" -- World For Taking Firehose
+firehoseDoorID = "FSCKLN0L11"
 
 -- Buy Pack Settings
 autoBuyPack = true
