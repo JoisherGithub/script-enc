@@ -58,7 +58,7 @@ randomDelayHit = true -- Variation delay from delayHit-10 until delayhit+10
 pnbInOtherWorld = true
 pnbPosition = {x = 22, y = 23} -- Custom Coordinate
 positionDistance = 5 -- Tile distance between bot
-pnbWorldListFile = "C:\\Users\\Administrator\\Desktop\\pnb" -- Or You can use Full Path like this "C:\\Users\\Administrator\\Desktop\\FileName.txt"
+pnbWorldListFile = "C:\\Users\\Administrator\\Desktop\\pnb.txt" -- Or You can use Full Path like this "C:\\Users\\Administrator\\Desktop\\FileName.txt"
 
 -- Delay Settings
 delayHarvest = 120
