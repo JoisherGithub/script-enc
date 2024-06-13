@@ -89,7 +89,7 @@ randomChatList = {
 	"we going up to new farmable" ,
 }
 
-trashList = {138,1796,5028,5032,5036,5038,5044,6336,7162,7164,8746}
+trashList = {138,1796,5028,5032,5036,5038,5044,6336,7162,7164,8746,880,881}
 goodItemList = {289,2878,2872}
 
 -- Webhook For Showing Bot Main Info
