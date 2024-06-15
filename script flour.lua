@@ -1,6 +1,6 @@
 saveFlourCount = 12
 autoVend = false -- [Auto Stock in Vend], Put ur vend in Storage World
-pnbInTutorial = false -- PNB in Tutorial World
+pnbInTutorial = true -- PNB in Tutorial World
 
 takeGems = true
 breakTile = 1 -- 1-5
