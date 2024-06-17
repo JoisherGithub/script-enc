@@ -6,7 +6,7 @@ JoisherMes5 = "1244299633174380554"
 JoisherMes6 = "1244299642695323830"
 
 -- Farm Settings, Separator Must Be "|"
-farmList = {}
+
 
 autoSpreadWorld = true -- Automatiacally Distribute the World List to All Bots, Bot Won't Have same world
 
