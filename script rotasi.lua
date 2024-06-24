@@ -1,10 +1,3 @@
-JoisherMes1 = "1244297102411038820"
-JoisherMes2 = "1244299298590556235"
-JoisherMes3 = "1244299462575390723"
-JoisherMes4 = "1244299563288891442"
-JoisherMes5 = "1244299633174380554"
-JoisherMes6 = "1244299642695323830"
-
 -- Farm Settings, Separator Must Be "|"
 
 
