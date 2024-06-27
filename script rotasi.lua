@@ -36,7 +36,7 @@ autoBuyPack = true
 packName = "world_lock"
 packPrice = 2000
 packItemID = {242}
-minPack = 1 -- Bot will not buy a pack unless it can buy 2 packs.
+minPack = 5 -- Bot will not buy a pack unless it can buy 2 packs.
 
 -- Take Pickaxe Settings
 autoTakePickaxe = true
